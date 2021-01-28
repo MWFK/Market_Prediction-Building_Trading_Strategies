@@ -1,1 +1,1 @@
-# Market-Prediction-Building-a-Trading-Strategy-
+# Market-Prediction-Building-a-Trading-Strategies
