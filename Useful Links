@@ -10,21 +10,24 @@ https://www.kaggle.com/aimind/bottleneck-encoder-mlp-keras-tuner-8601c5
 Score 3207.745 (team)
 https://www.kaggle.com/snippsy/bottleneck-encoder-mlp-keras-tuner
 
+
 ### ResNet starter 13bdb8 
 Score 9341.295 (team)
 https://www.kaggle.com/aimind/resnet-or-1dcnn
 
+
 ### Light GBM + Reduce memory usage
-Score 3968.415 <br/>
+Score 3968.415
 https://www.kaggle.com/binhlc/jane-street-light-gbm
 
-https://www.kaggle.com/binhlc/jane-street-tensorflow-dense
 
-https://www.kaggle.com/code1110/jane-street-with-keras-nn-overfit
-
+### FE for fast inference
 https://www.kaggle.com/lucasmorin/running-algos-fe-for-fast-inference
 
-https://www.kaggle.com/bmustafa/easy-and-simple-xgboost-good-score-forked
+
+
+
+
 
 https://www.kaggle.com/gogo827jz/jane-street-ffill-xgboost-purgedtimeseriescv
 
@@ -40,24 +43,48 @@ https://www.kaggle.com/miklgr500/optuna-xgbclassifier-parameters-optimize
 
 https://www.kaggle.com/kwonyoung234/jane-pytorch-lstm-implementation
 
+
+#### Purged TS CV + OPTUNA + PIPE + XGB + GridSearch
+https://www.kaggle.com/marketneutral/purged-time-series-cv-xgboost-optuna
+
+
+### Time Series Split (*)
+https://www.kaggle.com/jorijnsmit/found-the-holy-grail-grouptimeseriessplit
+
+
+### Validating Cross_Validators with Custom Scoring (Utility func) (*)
+https://www.kaggle.com/jorijnsmit/validating-cross-validators
+
+
 ### Reduce_memory_usage + TCN (*)
 https://www.kaggle.com/tarriaza/janestreet-tcn-w-double-stacked-autoencoder
+
 
 ### Jane Street with Keras NN overfit +11000 (*)
 https://www.kaggle.com/code1110/jane-street-with-keras-nn-overfit/output 
 
+
 ### Jane Street: Neural Network Starter +6700 score (*)
 https://www.kaggle.com/gogo827jz/jane-street-neural-network-starter
+
 
 ### Blending tensorflow and pytorch +1100 (*)
 https://www.kaggle.com/a763337092/blending-tensorflow-and-pytorch
 
+
 ### OWN Jane Street with Keras NN +8000 score (*)
 https://www.kaggle.com/tarlannazarov/own-jane-street-with-keras-nn/
+
 
 ### Did Jane Street modify their trading model around day 85? (*)
 https://www.kaggle.com/c/jane-street-market-prediction/discussion/201930
 
+
 ### Feature 0, beyond feature 0 (*)
 https://www.kaggle.com/nanomathias/feature-0-beyond-feature-0
+
+
+### Tensorflow Dense + Keras Tuner (*)
+Score 6697.628
+https://www.kaggle.com/binhlc/jane-street-tensorflow-dense
 
