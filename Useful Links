@@ -1,4 +1,21 @@
-### From the Leader Board
+# The best Notebooks
+
+
+### Winning Solutions of Previous Market Prediction Kaggle Challenges
+Discussion
+https://www.kaggle.com/c/jane-street-market-prediction/discussion/199189
+
+
+### Super Fast Utility Score Function Implementation
+Discussion
+A higher utility score means that Jane Street believes your model is better and thus the higher you are on the leaderboard.
+https://www.kaggle.com/c/jane-street-market-prediction/discussion/201257
+
+
+### Comparison between different fillna methods
+Discussion
+https://www.kaggle.com/c/jane-street-market-prediction/discussion/201302
+
 
 
 ### Bottleneck encoder + MLP + PurgedGroupTimeSeriesSplit 
@@ -29,7 +46,6 @@ https://www.kaggle.com/lucasmorin/running-algos-fe-for-fast-inference
 
 
 
-https://www.kaggle.com/gogo827jz/jane-street-ffill-xgboost-purgedtimeseriescv
 
 https://www.kaggle.com/marcodibartolo/cmu-team-pca-xgbclassifier-purgedsplit-optunacv
 
@@ -44,8 +60,19 @@ https://www.kaggle.com/miklgr500/optuna-xgbclassifier-parameters-optimize
 https://www.kaggle.com/kwonyoung234/jane-pytorch-lstm-implementation
 
 
-#### Purged TS CV + OPTUNA + PIPE + XGB + GridSearch
+
+
+
+
+
+#### Purged TS CV + OPTUNA + PIPE + XGB + GridSearch (*)
+Score 4992.749
 https://www.kaggle.com/marketneutral/purged-time-series-cv-xgboost-optuna
+
+
+### Purged TS CV + HyperOpt + FFill (*)
+Score 5379.509
+https://www.kaggle.com/gogo827jz/jane-street-ffill-xgboost-purgedtimeseriescv
 
 
 ### Time Series Split (*)
