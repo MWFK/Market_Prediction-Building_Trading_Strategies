@@ -1,9 +1,19 @@
 ### From the Leader Board
 
 
+### Bottleneck encoder + MLP + PurgedGroupTimeSeriesSplit 
+Score 9331.843 (team)
 https://www.kaggle.com/aimind/bottleneck-encoder-mlp-keras-tuner-8601c5
 
+
+### Bottleneck encoder + MLP + Keras Tuner + GroupTimeSeriesSplit 
+Score 3207.745 (team)
 https://www.kaggle.com/snippsy/bottleneck-encoder-mlp-keras-tuner
+
+### ResNet starter 13bdb8 
+Score 9341.295 (team)
+https://www.kaggle.com/aimind/resnet-or-1dcnn
+
 
 https://www.kaggle.com/binhlc/jane-street-light-gbm
 
