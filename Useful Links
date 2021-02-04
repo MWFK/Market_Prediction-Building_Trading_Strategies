@@ -14,7 +14,8 @@ https://www.kaggle.com/snippsy/bottleneck-encoder-mlp-keras-tuner
 Score 9341.295 (team)
 https://www.kaggle.com/aimind/resnet-or-1dcnn
 
-
+### Light GBM + Reduce memory usage
+Score 3968.415 <br/>
 https://www.kaggle.com/binhlc/jane-street-light-gbm
 
 https://www.kaggle.com/binhlc/jane-street-tensorflow-dense
