@@ -1,0 +1,6 @@
+Keras Tuner
+Optuna
+
+['date'] > 85
+drop feature_0
+PurgedTimeSeriesKFold n_splits = 5 group_gap = 31
