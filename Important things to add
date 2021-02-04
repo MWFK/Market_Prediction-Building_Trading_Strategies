@@ -1,6 +1,10 @@
 Keras Tuner
 Optuna
 
+reduce_memory_usage
+pickle the data
+picke the model
+use numpy for streaming
 ['date'] > 85
 drop feature_0
 PurgedTimeSeriesKFold n_splits = 5 group_gap = 31
