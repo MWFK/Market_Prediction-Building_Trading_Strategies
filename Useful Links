@@ -66,6 +66,13 @@ https://www.kaggle.com/sapthrishi007/pytorch-embeddingsnn-resnet-tensorflow?scri
 Pytorch-embeddingsNN + Resnet + Tensorflow(*)
 Score +1000
 https://www.kaggle.com/sapthrishi007/jane-fastai-featinteraction-embeddingnn5-300x3/output?scriptVersionId=54213771
+Final model (*)
+11473.160
+https://www.kaggle.com/sagarjiyani/pytorch-embeddingsnn-resnet?scriptVersionId=54925228
+based on this
+https://www.kaggle.com/sapthrishi007/jane-fastai-featinteraction-embeddingnn5-300x3/data?scriptVersionId=53603141&select=Jane_EmbNN5_auc_400_400_400.pth
+I did execute it here
+https://www.kaggle.com/mouafekmk/fastai-inference-pytorch-embeddingsnn-resnet
 
 
 
