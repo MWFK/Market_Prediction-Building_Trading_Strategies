@@ -1,4 +1,4 @@
-# The following are some of my experimental notebooks and reference notebooks 
+# My experimental notebooks and reference notebooks for future implementations
 
 ##### All references are provided within each notebook.
 
