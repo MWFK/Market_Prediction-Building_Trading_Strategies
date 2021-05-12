@@ -1,7 +1,10 @@
-# The following are some experimental notebooks (all references are provided within each notebook )
+# The following are some experimental notebooks
 
-### Most of the notebooks are built on top of other publicly shared work
-### A glimpse of my private research (theoractical and experimental) is summarized in the presentation "ML for Trading.pptx"#
+### All references are provided within each notebook.
+
+### Most of the notebooks are built on top of other publicly shared work.
+
+### A glimpse of my private research (theoractical and experimental) is summarized in the presentation "ML for Trading.pptx".
 
 ##### 1- XGB + Catboost with GPUversion 9
 https://www.kaggle.com/mouafekmk/xgb-catboost-with-gpuversion-9
