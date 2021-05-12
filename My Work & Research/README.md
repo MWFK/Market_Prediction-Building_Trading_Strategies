@@ -32,7 +32,9 @@ https://www.kaggle.com/mouafekmk/simple-pytorch-tensorflow-mlp
 ##### 8- Inference Fastai_Embedding_smoothNN5_400x3 VF
 https://www.kaggle.com/mouafekmk/inference-fastai-embedding-smoothnn5-400x3-vf
 
-# Reinforcement Learning and Deep Reinforcement Learning References (not my work)
+# Reinforcement Learning and Deep Reinforcement Learning References
+
+The following are notebooks(Not work) based on them I'm implementing my Wide & Deep Reiforcement Learning experimental Trading strategy (please refer to "ML for Trading.pptx")
 
 ##### 9- Early Reinforcement Learning
 https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/quests/rl/early_rl/early_rl.ipynb
