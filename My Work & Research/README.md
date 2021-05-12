@@ -1,10 +1,12 @@
-# The following are some experimental notebooks
+# The following are some of my experimental notebooks and reference notebooks 
 
-### All references are provided within each notebook.
+##### All references are provided within each notebook.
 
-### Most of the notebooks are built on top of other publicly shared work.
+##### Most of the notebooks are built on top of other publicly shared work.
 
-### A glimpse of my private research (theoractical and experimental) is summarized in the presentation "ML for Trading.pptx".
+##### A glimpse of my private research (theoractical and experimental) is summarized in the presentation "ML for Trading.pptx".
+
+# My Deep Learning experiments 
 
 ##### 1- XGB + Catboost with GPUversion 9
 https://www.kaggle.com/mouafekmk/xgb-catboost-with-gpuversion-9
@@ -29,5 +31,19 @@ https://www.kaggle.com/mouafekmk/simple-pytorch-tensorflow-mlp
 
 ##### 8- Inference Fastai_Embedding_smoothNN5_400x3 VF
 https://www.kaggle.com/mouafekmk/inference-fastai-embedding-smoothnn5-400x3-vf
+
+# Reinforcement Learning and Deep Reinforcement Learning References (not my work)
+
+##### 9- Early Reinforcement Learning
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/quests/rl/early_rl/early_rl.ipynb
+
+##### 10- DQNs on GCP
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/quests/rl/dqn/dqns_on_gcp.ipynb
+
+##### 11- Policy Gradients and A2C
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/quests/rl/a2c/a2c_on_gcp.ipynb
+
+#### 12- Tensorflow-RL
+https://github.com/steveKapturowski/tensorflow-rl
 
 ### Ongoing...
