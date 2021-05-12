@@ -15,7 +15,7 @@ https://www.kaggle.com/mouafekmk/benchmark-data-loading-speed
 ##### 4- Benchmark Loading Speed 
 https://www.kaggle.com/mouafekmk/benchmark-loading-speed
 
-##### 5- https://www.kaggle.com/mouafekmk/simple-mlp
+##### 5- Simple MLP
 https://www.kaggle.com/mouafekmk/simple-mlp
 
 ##### 6- Simple Pytorch Tensorflow MLP
