@@ -3,7 +3,7 @@
 ##### I have created this repo during my participation in Jane Street Market Prediction hosted on Kaggle.
 https://www.kaggle.com/c/jane-street-market-prediction
 
-##### I have created a reference for interesting notebooks that I have consulted, or built my models on it.
+##### I have created a reference for interesting notebooks that I have consulted, or built my models around them, references are provided within each notebook.
 
 ##### I have kept some of my work private on both Kaggle and Github for research purpose.
 
